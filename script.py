@@ -54,7 +54,7 @@ class UsernameSherlock:
             f.write("\n".join(self.found_profiles))
 
 def main():
-    banner = pyfiglet.figlet_format("OLHO DE DEUS", font="slant")
+    banner = pyfiglet.figlet_format("GOD'S EYE", font="slant")
     print(Fore.CYAN + banner)
     print(f"{Fore.MAGENTA}v1.0.0 - Automated OSINT Tool{Style.RESET_ALL}\n")
     
