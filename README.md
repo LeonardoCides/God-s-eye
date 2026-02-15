@@ -2,6 +2,7 @@
 <p align="center">
   <img src="/god.png" alt="Eye of God Logo" width="600">
 </p>
+
 ![Python Version](https://img.shields.io/badge/python-3.8+-red.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
